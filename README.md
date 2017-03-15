@@ -1,4 +1,4 @@
-# SimulateLogin
+#SimulateLogin
 ##模拟登陆知乎
 ####在网上找了几个模拟登陆知乎的python代码，但是感觉都太过于复杂
 ####自己利用firefox的httpFox抓包，拿到知乎登陆请求时d发送的信息，写了个简单版模拟登陆
