@@ -27,8 +27,10 @@ print(result.read().decode())
 
 	图一：
 ![登陆成功](https://git.oschina.net/niithub/images/raw/master/1.png?dir=0&filepath=1.png&oid=6a46cefcab24f1447e751861edd7c2c2962f8b7c&sha=6a69be413afeaccf1ee59d0748b399d763d6da84 "登陆成功")
+
 	图二：
 ![登陆失败](https://git.oschina.net/niithub/images/raw/master/error1.png?dir=0&filepath=error1.png&oid=dd55e4e0dd7341278bee5605575cd8969b45cee0&sha=6a69be413afeaccf1ee59d0748b399d763d6da84 "没有输入密码这一项")
+
 	图三:
 ![登陆失败](https://git.oschina.net/niithub/images/raw/master/error2.png?dir=0&filepath=error2.png&oid=fba856669060e4803a3893d000dfdd2d9a209773&sha=6a69be413afeaccf1ee59d0748b399d763d6da84 "密码输入错误")
 
